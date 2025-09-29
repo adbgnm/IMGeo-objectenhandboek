@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: WYK | Wijk
-=======
 title: Wijk
 abbr: WYK
->>>>>>> Stashed changes
 permalink: /wijk
 sort: 37
 ---
 
-Wijk (WYK)
+Wijk
 ====
 
 **Definitie**

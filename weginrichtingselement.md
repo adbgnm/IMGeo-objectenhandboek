@@ -1,16 +1,12 @@
 ---
-<<<<<<< Updated upstream
-title: WGI | Weginrichtingselement
-=======
 title: Weginrichtingselement
 abbr: WGI
->>>>>>> Stashed changes
 permalink: /weginrichtingselement
 sort: 29
 ---
 
-Weginrichtingselement (WGI)
-============================
+Weginrichtingselement
+=====================
 
 **Definitie**
 

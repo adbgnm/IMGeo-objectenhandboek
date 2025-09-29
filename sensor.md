@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: SNS | Sensor
-=======
 title: Sensor
 abbr: SNS
->>>>>>> Stashed changes
 permalink: /sensor
 sort: 26
 ---
 
-Sensor (SNS)
+Sensor
 ======
 
 **Definitie**

@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: GBI | Gebouw installatie
-=======
 title: Gebouw-installatie
 abbr: GBI
->>>>>>> Stashed changes
 permalink: /gebouwinstallatie
 sort: 17
 ---
 
-Gebouw-installatie (GBI)
+Gebouw-installatie
 =================
 
 **Definitie**

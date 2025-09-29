@@ -1,16 +1,12 @@
 ---
 
-<<<<<<< Updated upstream
-title: BRT | Buurt
-=======
 title: Buurt
 abbr: BRT
->>>>>>> Stashed changes
 permalink: /buurt
 sort: 33
 ---
 
-Buurt (BRT)
+Buurt
 =====
 
 **Definitie**

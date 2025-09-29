@@ -1,19 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: BTD | Begroeid terreindeel
-=======
 title: Begroeid terreindeel
 abbr: BTD 
->>>>>>> Stashed changes
 permalink: /begroeidterreindeel
 sort: 6
 ---
 
-<<<<<<< Updated upstream
-BegroeidTerreindeel (BTD)
-=======
 Begroeid terreindeel
->>>>>>> Stashed changes
 ===================
 
 **Definitie**

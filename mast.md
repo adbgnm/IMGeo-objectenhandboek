@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: MST | Mast
-=======
 title: Mast
 abbr: MST
->>>>>>> Stashed changes
 permalink: /mast
 sort: 23
 ---
 
-Mast (MST)
+Mast
 ====
 
 **Definitie**

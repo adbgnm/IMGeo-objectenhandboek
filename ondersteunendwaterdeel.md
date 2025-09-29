@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: OWT | Ondersteunend waterdeel
-=======
 title: Ondersteunend waterdeel
 abbr: OWT
->>>>>>> Stashed changes
 permalink: /ondersteunendwaterdeel
 sort: 8
 ---
 
-Ondersteunend waterdeel (OWT)
+Ondersteunend waterdeel
 ======================
 
 **Definitie**
@@ -196,17 +192,11 @@ onderloopt.
 Ja, verplichte inhoud BGT.
 
 **Voorbeeld**
-Een afbeelding van een slik kunt u sturen aan: imgeo@geonovum.nl
 
-<<<<<<< Updated upstream
-<!--
-=======
 ![OndersteunendWaterdeel, slik](media/40d9840170b4007a09bdd8c1fd8a5b23.png)
 
 
->>>>>>> Stashed changes
 | **OndersteunendWaterdeel** | **Attribuutwaarde** | **Opmerkingen** |
 |----------------------------|---------------------|-----------------|
 | type                       | slik                |                 |
 | relatieveHoogteligging     | 0                   |                 |
---!>

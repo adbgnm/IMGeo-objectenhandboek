@@ -1,19 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: VGO | Vegetatieobject
-=======
 title: Vegetatie-object
 abbr: VGO
->>>>>>> Stashed changes
 permalink: /vegetatieobject
 sort: 30
 ---
 
-<<<<<<< Updated upstream
-VegetatieObject (VGO)
-=======
 Vegetatie-object
->>>>>>> Stashed changes
 ===============
 
 **Definitie**

@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: OTD | Onbegroeid terreindeel
-=======
 title: Onbegroeid terreindeel
 abbr: OTD
->>>>>>> Stashed changes
 permalink: /onbegroeidterreindeel
 sort: 5
 ---
 
-Onbegroeid terreindeel (OTD)
+Onbegroeid terreindeel
 =====================
 
 **Definitie**

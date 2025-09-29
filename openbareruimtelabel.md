@@ -1,19 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: ORL | Openbare ruimte label
-=======
 title: Openbare ruimtelabel
 abbr: ORL
->>>>>>> Stashed changes
 permalink: /openbareruimtelabel
 sort: 31
 ---
 
-<<<<<<< Updated upstream
-Openbare ruimte label (ORL)
-=======
 Openbare ruimtelabel
->>>>>>> Stashed changes
 ===================
 
 **Definitie**

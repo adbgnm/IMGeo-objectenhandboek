@@ -1,19 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: OBW | Overig bouwwerk
-=======
 title: Overig bouwwerk
 abbr: OBW
->>>>>>> Stashed changes
 permalink: /overigbouwwerk
 sort: 11
 ---
 
-<<<<<<< Updated upstream
-Overig bouwwerk (OBW)
-=======
 Overig bouwwerk
->>>>>>> Stashed changes
 =====================
 
 **Definitie**
@@ -27,21 +19,6 @@ Met de aarde verbonden duurzaam bouwwerk, dat niet valt onder de definities van 
 Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-overigbouwwerk)
 
 >   **Regels voor opname**
-<<<<<<< Updated upstream
-
->   De geometrie is waar het grondvlak van het overig bouwwerk de ondergrond raakt.
-
->   **Aandachtspunten**
-
->   Bassins en bezinkbakken bij zuiveringsinstallaties zijn geen waterdelen, maar worden geclassificeerd als overig bouwwerk.
-
->   Zwembaden worden als type bassin vastgelegd.
-
->   Alleen bovengrondse opslagtanks worden opgenomen.
-
->   Bij overkappingen wordt de grondvlakgeometrie van de pilaren (footprint) waarop de overkapping rust geregistreerd wanneer de afmetingen (rechthoekzijde of middellijn) ≥ 0,30 m bedraagt.
-
-=======
 >
 >   De geometrie is waar het grondvlak van het overig bouwwerk de ondergrond raakt.
 >
@@ -55,7 +32,6 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus
 >
 >   Bij overkappingen wordt de grondvlakgeometrie van de pilaren (footprint) waarop de overkapping rust geregistreerd wanneer de afmetingen (rechthoekzijde of middellijn) ≥ 0,30 m bedraagt.
 >
->>>>>>> Stashed changes
 >   Het afdak van de overkapping is eventueel IMGeo inhoud.
 
 ### IMGeo

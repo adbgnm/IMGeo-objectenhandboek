@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: KWD | Kunstwerkdeel
-=======
 title: Kunstwerkdeel
 abbr: KWD
->>>>>>> Stashed changes
 permalink: /kunstwerkdeel
 sort: 14
 ---
 
-Kunstwerkdeel (KWD)
+Kunstwerkdeel
 =============
 
 **Definitie**

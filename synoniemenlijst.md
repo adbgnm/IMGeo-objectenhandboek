@@ -1,20 +1,10 @@
 ---
 permalink: /synoniemenlijst
-<<<<<<< Updated upstream
-sort: 40
-=======
 nav_exclude: true
->>>>>>> Stashed changes
 ---
 
 # Synoniemenlijst
 
-<<<<<<< Updated upstream
-Dit is een synoniemenlijst en legt de relatie tussen veel gebruikte
-termen in het dagelijks werk -en begrippen in IMGeo.
-
-Gebruik de pijltjestoetsen en page-up en page-down om in de tabel te scrollen.
-=======
 Dit is een synoniemenlijst en legt de relatie tussen veel gebruikte termen in het dagelijks werk, en begrippen in IMGeo.
 
 Je bent hier terecht gekomen 
@@ -28,7 +18,6 @@ Gebruik de pijltjestoetsen en page-up en page-down om in de tabel te scrollen.
 Mocht je je zoekterm niet goed vinden, gebruik dan CTRL-F om op deze site te zoeken.
 
 
->>>>>>> Stashed changes
 Enkele woorden bevatten nog geen link, maar zijn wel vindbaar. 
 
 Tabel:

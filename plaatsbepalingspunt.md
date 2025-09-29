@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: PBP | Plaatsbepalingspunt
-=======
 title: Plaatsbepalingspunt
 abbr: PBP
->>>>>>> Stashed changes
 permalink: /plaatsbepalingspunt
 sort: 38
 ---
 
-Plaatsbepalingspunt (PBP)
+Plaatsbepalingspunt
 ===================
 
 **Definitie**

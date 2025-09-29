@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: "OWG: Ondersteunend wegdeel"
-=======
 title: Ondersteunend wegdeel
 abbr: OWG
->>>>>>> Stashed changes
 permalink: /ondersteunendwegdeel
 sort: 2
 ---
 
-# Ondersteunend wegdeel (OWG)
+# Ondersteunend wegdeel
 
 **Definitie**
 

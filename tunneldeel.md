@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: TUN | Tunneldeel
-=======
 title: Tunneldeel
 abbr: TUN
->>>>>>> Stashed changes
 permalink: /tunneldeel
 sort: 13
 ---
 
-Tunneldeel (TUN)
+Tunneldeel
 ==========
 
 **Definitie**

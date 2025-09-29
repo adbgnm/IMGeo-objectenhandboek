@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-titel: "INS: Installatie"
-=======
 titel: Installatie
 abbr: INS
->>>>>>> Stashed changes
 permalink: /installatie
 sort: 21
 ---
 
-Installatie (INS)
+Installatie
 ===========
 
 **Definitie**

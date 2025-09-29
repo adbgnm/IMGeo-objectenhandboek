@@ -1,15 +1,11 @@
 ---
-<<<<<<< Updated upstream
-title: SHD | Scheiding
-=======
 title: Scheiding
 abbr: SHD
->>>>>>> Stashed changes
 permalink: /scheiding
 sort: 15
 ---
 
-Scheiding (SHD)
+Scheiding
 =========
 
 **Definitie**
