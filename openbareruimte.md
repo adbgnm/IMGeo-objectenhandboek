@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: OPR | Openbare ruimte
+=======
+title: Openbare ruimte
+abbr: OPR
+>>>>>>> Stashed changes
 permalink: /openbareruimte
 sort: 34
 ---

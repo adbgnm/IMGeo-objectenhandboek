@@ -1,10 +1,19 @@
 ---
+<<<<<<< Updated upstream
 title: OCO | Overige constructie
+=======
+title: Overige constructie
+abbr: OCO
+>>>>>>> Stashed changes
 permalink: /overigeconstructie
 sort: 10
 ---
 
+<<<<<<< Updated upstream
 OverigeConstructie (OCO)
+=======
+Overige constructie
+>>>>>>> Stashed changes
 ==================
 
 **Definitie**

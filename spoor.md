@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: SPR | Spoor
+=======
+title: Spoor
+abbr: SPR
+>>>>>>> Stashed changes
 permalink: /spoor
 sort: 4
 ---
@@ -17,9 +22,15 @@ De as van het spoor, dat wil zeggen het midden van twee stalen staven op een ond
 Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-spoor)
 
 >   **Regels voor opname**
+<<<<<<< Updated upstream
 
 >   Het midden tussen de twee staven van een spoor, de as van het spoor, wordt als lijn vastgelegd.
 
+=======
+>
+>   Het midden tussen de twee staven van een spoor, de as van het spoor, wordt als lijn vastgelegd.
+>
+>>>>>>> Stashed changes
 >   De as van elk afzonderlijk spoor wordt weergegeven.
 
 ## functie

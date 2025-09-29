@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: FUG | Functioneel gebied
+=======
+title: Functioneel gebied
+abbr: FUG
+>>>>>>> Stashed changes
 permalink: /functioneelgebied
 sort: 16
 ---

@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: BAK | Bak
+=======
+title: Bak
+abbr: BAK
+>>>>>>> Stashed changes
 permalink: /bak
 sort: 19
 ---

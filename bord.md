@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: BRD | Bord
+=======
+title: Bord
+abbr: BRD
+>>>>>>> Stashed changes
 permalink: /bord
 sort: 20
 ---

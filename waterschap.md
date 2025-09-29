@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: WSP | Waterschap
+=======
+title: Waterschap
+abbr: WSP
+>>>>>>> Stashed changes
 permalink: /waterschap
 sort: 36
 ---

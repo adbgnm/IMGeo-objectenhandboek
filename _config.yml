@@ -1,3 +1,6 @@
+#url: "https://geonovum.github.io"
+repo_url: "https://github.com/Geonovum/IMGeo-objectenhandboek"
+base_url: "/IMGeo-objectenhandboek-dev"
 title: IMGeo objectenhandboek
 lang: nl
 description: Praktijkhandleiding voor toepassing van de BGT|IMGeo standaarden bij de objectafbakening
@@ -6,15 +9,33 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  #- jekyll-remote-theme
 
 exclude:
   - Makefile
   - Gemfile
   - Gemfile.lock
 
+<<<<<<< Updated upstream
 remote_theme: clearpathrobotics/jekyll-rtd-theme
+=======
+theme: null
+#remote_theme: clearpathrobotics/jekyll-rtd-theme
+>>>>>>> Stashed changes
 
+include:
+  - _theme
+
+
+
+layouts_dir: _theme/_layouts
+includes_dir: _theme/_includes
+sass:
+  sass_dir: _theme/_sass
+
+  
 readme_index:
+<<<<<<< Updated upstream
   with_frontmatter: true
   
 script: | 
@@ -89,3 +110,6 @@ scss: |
   .edit{visibility:hidden}
   
   body{scroll-padding:400px};
+=======
+  with_frontmatter: true 
+>>>>>>> Stashed changes

@@ -1,6 +1,12 @@
 ---
+<<<<<<< Updated upstream
 title: "WGD: Wegdeel"
 permalink: "/wegdeel"
+=======
+title: Wegdeel
+abbr: WGD
+permalink: /wegdeel
+>>>>>>> Stashed changes
 sort: 1
 ---
 

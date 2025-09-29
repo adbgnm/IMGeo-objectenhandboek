@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: SHD | Scheiding
+=======
+title: Scheiding
+abbr: SHD
+>>>>>>> Stashed changes
 permalink: /scheiding
 sort: 15
 ---
@@ -71,14 +76,14 @@ Bron: [Gegevenscatalogus IMGeo
 >   vermelde minimum afmetingen. Ook kunnen in IMGeo scheidingen worden
 >   opgenomen die binnen een erf en niet aan de straatzijde of openbare ruimte
 >   zijde zijn gelegen.
-
+>
 >   De populatie van Scheiding in IMGeo bestaat uit:
-
--   Scheidingen die niet voldoen aan de BGT minimummaat;
-
--   Scheidingen in terrein met fysiek voorkomen ‘erf’ die niet aan de
-    straatzijde gelegen zijn.
-
+>
+>  -   Scheidingen die niet voldoen aan de BGT minimummaat;
+>
+>  -   Scheidingen in terrein met fysiek voorkomen ‘erf’ die niet aan de
+>    straatzijde gelegen zijn.
+>
 >   IMGeo muren en kademuren van breder dan 30 cm worden als vlakobject
 >   vastgelegd; smallere worden als lijnobject vastgelegd.
 

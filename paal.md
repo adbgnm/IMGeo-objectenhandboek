@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: PAL | Paal
+=======
+title: Paal
+abbr: PAL
+>>>>>>> Stashed changes
 permalink: /paal
 sort: 24
 ---

@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: PBP | Plaatsbepalingspunt
+=======
+title: Plaatsbepalingspunt
+abbr: PBP
+>>>>>>> Stashed changes
 permalink: /plaatsbepalingspunt
 sort: 38
 ---

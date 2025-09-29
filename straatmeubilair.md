@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: STM | Straatmeubilair
+=======
+title: Straatmeubilair
+abbr: STM
+>>>>>>> Stashed changes
 permalink: /straatmeubilair
 sort: 27
 ---

@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: STD | Stadsdeel
+=======
+title: Stadsdeel
+abbr: STD
+>>>>>>> Stashed changes
 permalink: /stadsdeel
 sort: 35
 ---

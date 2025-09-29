@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: OWT | Ondersteunend waterdeel
+=======
+title: Ondersteunend waterdeel
+abbr: OWT
+>>>>>>> Stashed changes
 permalink: /ondersteunendwaterdeel
 sort: 8
 ---
@@ -118,32 +123,32 @@ Bron: [Gegevenscatalogus BGT 1.2](https://docs.geostandaarden.nl/imgeo/catalogu
 >   Rijkswaterstaat, deze begrenzing. Is de ligging van een peil niet
 >   beschikbaar voor de BGT dan vormt de kunstmatige waterkering de scheiding
 >   tussen terrein en water.
-
+>
 >   **Meren**
-
+>
 >   Bij meren komen kunstmatig aangelegde waterkeringen voor in de vorm van een
 >   kademuur of walbescherming, soms is er sprake van een oever. Als een
 >   kunstmatige waterkering aanwezig is in de vorm van een kademuur of
 >   walbescherming vormt dit de begrenzing van terrein en water. Bij het
 >   ontbreken daarvan vormt het object begrensd door waterlijn en de bovenzijde
 >   van een herkenbare insteek een ondersteunend waterdeel type oever/slootkant.
-
+>
 >   In meren wordt een streefpeil beheerd door bemalen en/of spuien. Als de
 >   ligging van een peil bekend is en de horizontale afstand tussen een
 >   herkenbare insteek bedraagt 1m of meer dan ontstaat in de BGT een
 >   ondersteunend waterdeel van het type oever. Waar sprake is van meerdere
 >   streefpeilen, wordt uitgegaan van het laagste niveau of ondergrenspeil.
-
+>
 >   **Overige waterlopen en -vlakken**
-
+>
 >   Hier geldt onderstaand stroomdiagram. Als kant water de begrenzing van
 >   objecten vormt, geldt dat dit een presentatie is van het laagst mogelijke
 >   streefpeil ter plaatse. Als de horizontale afstand tussen waterlijn en de
 >   bovenkant van een herkenbare insteek 1m of meer bedraagt dan ontstaat in de
 >   BGT een ondersteunend waterdeel van het type oever/slootkant.
-
-![](media/90e8671da8cb5b1bb54087d56fa4a146.jpg)
-
+>
+>   ![](media/90e8671da8cb5b1bb54087d56fa4a146.jpg)
+>
 >   Stroomdiagram waterlopen
 
 type
@@ -193,7 +198,13 @@ Ja, verplichte inhoud BGT.
 **Voorbeeld**
 Een afbeelding van een slik kunt u sturen aan: imgeo@geonovum.nl
 
+<<<<<<< Updated upstream
 <!--
+=======
+![OndersteunendWaterdeel, slik](media/40d9840170b4007a09bdd8c1fd8a5b23.png)
+
+
+>>>>>>> Stashed changes
 | **OndersteunendWaterdeel** | **Attribuutwaarde** | **Opmerkingen** |
 |----------------------------|---------------------|-----------------|
 | type                       | slik                |                 |

@@ -1,5 +1,10 @@
 ---
+<<<<<<< Updated upstream
 title: PUT | Put
+=======
+title: Put
+abbr: PUT
+>>>>>>> Stashed changes
 permalink: /put
 sort: 25
 ---

@@ -1,10 +1,19 @@
 ---
+<<<<<<< Updated upstream
 title: OBD | Overbruggingsdeel
+=======
+title: Overbruggingsdeel
+abbr: OBD
+>>>>>>> Stashed changes
 permalink: /overbruggingsdeel
 sort: 12
 ---
 
+<<<<<<< Updated upstream
 # Overbruggingsdeel (OBD)
+=======
+# Overbruggingsdeel
+>>>>>>> Stashed changes
 
 **Definitie**
 
@@ -20,11 +29,16 @@ Bron: [Gegevenscatalogus BGT
 1.2](https://docs.geostandaarden.nl/imgeo/catalogus/bgt/#objectafbakening-overbruggingsdeel)
 
 >   **Regels voor opname**
+<<<<<<< Updated upstream
 
+=======
+>
+>>>>>>> Stashed changes
 >   Er is sprake van een overbrugging wanneer een van de onderdelen bestaat uit
 >   een afzonderlijk dek dat op een bak en/of pijlers rust. Dit in tegenstelling
 >   tot een tunnel, die uit een gesloten kokerconstructie met een in- en uitgang
 >   bestaat.
+<<<<<<< Updated upstream
 
 >   Delen van overbruggingen worden in de BGT niet verder getypeerd. Zo worden
 >   zowel het brugdek als de pijler van een overbrugging in de BGT aangeduid als
@@ -43,6 +57,26 @@ Bron: [Gegevenscatalogus BGT
 >   Objectenhandboek onder het kopje “*Schematische visualisatie van mogelijk
 >   voorkomende overbruggingen*” (eind van deze sectie met inwinregels).
 
+=======
+>
+>   Delen van overbruggingen worden in de BGT niet verder getypeerd. Zo worden
+>   zowel het brugdek als de pijler van een overbrugging in de BGT aangeduid als
+>   overbruggingsdeel.
+>
+>   Eén van de in onderstaande tabel vermelde situaties zal voorkomen om een
+>   overbrugging in delen te kunnen opknippen.
+>
+>   | **Rij-ijzer of voeg** | **Object met hoogste hiërarchie** | **Uitwerking** |
+>   |-----------------------|-----------------------------------|----------------|
+>   | Aanwezig              | n.v.t.                            | A              |
+>   | Niet aanwezig         | Onder overbrugging                | B              |
+>   | Niet aanwezig         | Op overbrugging                   | C              |
+>
+>   Een schematische visualisatie van deze situaties staan in het IMGeo
+>   Objectenhandboek onder het kopje “*Schematische visualisatie van mogelijk
+>   voorkomende overbruggingen*” (eind van deze sectie met inwinregels).
+>
+>>>>>>> Stashed changes
 >   Indien een rij-ijzer of voeg zichtbaar is in het brugdek worden daarmee de
 >   overbrugging en de op de overbrugging gelegen objecten afgebakend volgens
 >   uitwerking A.
