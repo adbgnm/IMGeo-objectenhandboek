@@ -5,7 +5,7 @@ permalink: /waterschap
 sort: 36
 ---
 
-Waterschap (WSP)
+Waterschap
 ==========
 
 **Definitie**
